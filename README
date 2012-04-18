@@ -1,6 +1,7 @@
 This shows a potential problem with using require_once to load a file.
 
-I do not understand why it happens.
+It has something to do with the PHP APC extension.
 
 Server config:
 PHP Version 5.3.8
+APC Version 3.1.10

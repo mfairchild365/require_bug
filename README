@@ -1,0 +1,6 @@
+This shows a potential problem with using require_once to load a file.
+
+I do not understand why it happens.
+
+Server config:
+PHP Version 5.3.8
